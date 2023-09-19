@@ -1730,6 +1730,11 @@ once@^1.3.0:
   dependencies:
     wrappy "1"
 
+openai-edge@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/openai-edge/-/openai-edge-1.2.2.tgz#0b1cd5aec2c366bbd25cdeba05399aa6eef73230"
+  integrity sha512-C3/Ao9Hkx5uBPv9YFBpX/x59XMPgPUU4dyGg/0J2sOJ7O9D98kD+lfdOc7v/60oYo5xzMGct80uFkYLH+X2qgw==
+
 openai@4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/openai/-/openai-4.2.0.tgz#ccaef83bccad50041dd3e733e231b0c38f889b99"
@@ -1996,6 +2001,11 @@ regenerator-runtime@^0.14.0:
   version "0.14.0"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz#5e19d68eb12d486f797e15a3c6a918f7cec5eb45"
   integrity sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA==
+
+replicate@^0.18.0:
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/replicate/-/replicate-0.18.0.tgz#9ec0e8b2447b2f5238e2601fefe66ecf1f7db2a2"
+  integrity sha512-b1SabhR4XFXqWbM4551tmc7hL+x+dnzka9YA6lcbzbyGDPHKELRdgRc6nn9jxK1VyTg70O39mCIo0e15DVZELw==
 
 require-from-string@^2.0.2:
   version "2.0.2"
